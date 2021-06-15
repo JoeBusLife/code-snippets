@@ -1,13 +1,14 @@
 # code-snippets
 
-## Git
+### Git
 - git init
 - git status
 - git add .
 - git commit -m submit1
 - git remote add origin https://githu...
-- git push -u origin main
+- git push -u origin main  
 
+### Other
 - cd school/python/
 - touch .gitignore app.py other.py
 - code .
