@@ -7,6 +7,7 @@
 - git commit -m submit1
 - git remote add origin https://githu...
 - git push -u origin main  
+- git pull origin main --rebase  
 
 ### Other
 - cd school/python/
