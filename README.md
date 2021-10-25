@@ -8,6 +8,7 @@
 - git remote add origin https://githu...
 - git push -u origin main  
 - git pull origin main --rebase  
+- git rm -r --cached <folder>
 
 ### Other
 - cd school/python/
