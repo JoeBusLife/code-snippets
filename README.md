@@ -37,7 +37,7 @@
 ### Node
 - npm init
 - npm i
-  npm i --save-dev supertest
+- npm i --save-dev supertest
 - node <file>
 - nodemon <file>
 - nodemon --inspect <file>
