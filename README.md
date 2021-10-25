@@ -33,3 +33,11 @@
 - request.files: the files in the body, which Flask keeps separate from form. HTML forms must use enctype=multipart/form-data or files will not be uploaded.
 - request.values: combined args and form, preferring args if keys overlap
 - request.json: parsed JSON data. The request must have the application/json content type, or use request.get_json(force=True) to ignore the content type.
+  
+### Node
+- npm init
+- npm i
+  npm i --save-dev supertest
+- node <file>
+- nodemon <file>
+- nodemon --inspect <file>
