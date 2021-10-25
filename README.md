@@ -8,7 +8,7 @@
 - git remote add origin https://githu...
 - git push -u origin main  
 - git pull origin main --rebase  
-- git rm -r --cached <folder>
+- git rm -r --cached \<folder>
 
 ### Other
 - cd school/python/
@@ -24,6 +24,7 @@
 - sudo service postgresql status
 - sudo service postgresql start
 - createdb blogly_test
+- psql < \<file.sql>
 - python seed.py
 - flask run --port 8050   
 
@@ -38,6 +39,6 @@
 - npm init
 - npm i
 - npm i --save-dev supertest
-- node <file>
-- nodemon <file>
-- nodemon --inspect <file>
+- node \<file>
+- nodemon \<file>
+- nodemon --inspect \<file>
