@@ -42,4 +42,5 @@
 - node \<file>
 - nodemon \<file>
 - nodemon --inspect \<file>
+- kill -9 $(lsof -ti:3000)
 - killall node
