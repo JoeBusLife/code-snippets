@@ -42,3 +42,4 @@
 - node \<file>
 - nodemon \<file>
 - nodemon --inspect \<file>
+- killall node
