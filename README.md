@@ -44,3 +44,6 @@
 - nodemon --inspect \<file>
 - kill -9 $(sudo lsof -ti:3000)
 - killall node
+
+### React
+- npx create-react-app app-name
